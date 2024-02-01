@@ -8,7 +8,7 @@ Original:
 
 Reconstruction:
 
-![FinalProject](https://github.com/jsenior326/CS330CompGraphicsAndVisualization/assets/57270866/4903aeec-d695-4896-9561-5a2001403064)
+![FinalProject](https://github.com/jsenior326/CS330CompGraphicsAndVisualization/assets/57270866/2b63daa6-75b7-49aa-963b-415f2f5710d1)
 
 ## How do I approach designing software?
 
