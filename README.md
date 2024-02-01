@@ -1,5 +1,15 @@
 # CS330CompGraphicsAndVisualization
 
+The following scene was reconstructed using OpenGL in C++.
+
+Original:
+
+![Original](https://github.com/jsenior326/CS330CompGraphicsAndVisualization/assets/57270866/25eda7d3-6148-46d5-9b53-783334b251d0)
+
+Reconstruction:
+
+![FinalProject](https://github.com/jsenior326/CS330CompGraphicsAndVisualization/assets/57270866/4903aeec-d695-4896-9561-5a2001403064)
+
 ## How do I approach designing software?
 
   This project helped me learn how to create interactive 3D environments using OpenGL. Doing so required having an in-depth understanding of the OpenGL API and how to use it. This was one of my first times working with an API as complex as OpenGL. Understanding how to work with APIs is an essential skill and will be very helpful in my future work. Using what I learned about this API, I used an object-oriented design approach to separate the objects involved with my 3D scene. These objects would include meshes, textures/materials, the camera, and lighting. This approach helped to structure the development process into iterations. This project was good practice for breaking down the major components of the project into objects due to the widespread usage of object-oriented approaches. 
